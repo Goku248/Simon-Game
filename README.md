@@ -29,6 +29,7 @@ Simon-Game
     |- app.js
     |- index.html
     |- style.css
+    |- README.md
 ```
 * open the [`index.html`](./index.html) from browserwewfdfde
 
