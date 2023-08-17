@@ -15,7 +15,7 @@ This game help you to boost your memory.
 ### via zip
 * download the [zip](https://github.com/Goku248/Simon-Game/archive/refs/heads/main.zip) file
 * Extract the zip
-* open the [`index.html`](./index.html) from browserwewfdfde
+* open the [`index.html`](./index.html) 
 
 ### via git clone
 ```
@@ -31,6 +31,6 @@ Simon-Game
     |- style.css
     |- README.md
 ```
-* open the [`index.html`](./index.html) from browserwewfdfde
+
 
 
