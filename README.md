@@ -11,4 +11,25 @@ This game help you to boost your memory.
 * Shows your Highscore.
 
 
-## Download code
+## Download the code
+### via zip
+* download the [zip](https://github.com/Goku248/Simon-Game/archive/refs/heads/main.zip) file
+* Extract the zip
+* open the [`index.html`](./index.html) from browserwewfdfde
+
+### via git clone
+```
+git clone https://github.com/Goku248/Simon-Game.git
+
+```
+
+files
+```
+Simon-Game
+    |- app.js
+    |- index.html
+    |- style.css
+```
+* open the [`index.html`](./index.html) from browserwewfdfde
+
+
